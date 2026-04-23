@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 **Desenvolvedor FullStack (foco em Backend)**
 
-Desenvolvedor com experiência na construção de APIs REST utilizando Node.js, TypeScript, NestJS e bancos de dados (MongoDB/MySQL), aplicando autenticação, regras de negócio e boas práticas de arquitetura.
+Desenvolvedor com experiência na construção de APIs REST utilizando Node.js, TypeScript, NestJS e bancos de dados (MongoDB/MySQL), aplicando regras de negócio e boas práticas de arquitetura.
 
 Base em HTML, CSS, JavaScript, Python e Java, com foco em lógica de programação e desenvolvimento de sistemas. Experiência prática com projetos reais durante trilha na Compass UOL, utilizando metodologias ágeis.
 
